@@ -21,7 +21,7 @@ Phish-Shield is a backend project that aims to provide protection against phishi
 ## Installation
 To set up and run the Phish-Shield backend locally, follow these steps:
 
-1. Clone the repository: git clone https://github.com/your-username/phish-shield.git
+1. Clone the repository: git clone https://github.com/sanketshirsath226/phish-shield-ml-heroku.git
 2. Navigate to the project directory: cd phish-shield
 3. Create a virtual environment (optional but recommended): python3 -m venv env (replace env with your desired environment name).
 4. Activate the virtual environment:
